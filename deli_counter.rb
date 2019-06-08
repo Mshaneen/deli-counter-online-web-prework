@@ -5,8 +5,9 @@ def line
   puts "The line is empty"
 end 
 
-def take_a_number(katz_deli,"name")
-  katz_deli = ["#{name}"]
-  katz_deli << .index("#{name}")
+def take_a_number(katz_deli,"new_name")
+  katz_deli = ["person 1", "person"]
+  katz_deli << .index("#{new_name}")
   puts "#{name} has number"
+end
   
