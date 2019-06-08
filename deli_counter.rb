@@ -10,4 +10,6 @@ def take_a_number(katz_deli,"new_name")
   katz_deli << .index("#{new_name}")
   puts "#{name} has number"
 end
+
+im stuck
   
